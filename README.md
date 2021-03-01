@@ -18,7 +18,7 @@ QT基础&amp;样式表小程序，QT学习用
 
 夹带了私货和烂梗，和解谜元素（误），请不要在意。
 
-![2.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/2.png)
+![2.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/8.png)
 
 ###【样式设定】
 
@@ -30,9 +30,9 @@ QT基础&amp;样式表小程序，QT学习用
 
 原来打算把“样例01”替换成“+”，做成可保存的样式库一类的东西，因为后面比较忙，虽然基础都做好了，就差一个保存数据的环节，但懒是真的懒，秉持着能用就行，索性弃坑就当一个半成品。（绝对不是因为界面太丑我没想好怎么改）
 
-![4.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/4.png)
+![4.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/10.png)
 
-![1.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/1.png)
+![1.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/7.png)
 
 从按钮到选值框都可以设定，同样是按“样例01”，编辑框和日期框没有。
 
@@ -42,13 +42,13 @@ QT的树状列表居然是不包含选值逻辑的你敢信？（不知道现在
 
 当初改这块的代码我真的是改吐了，又是历遍又是清除，还要考虑全选和部分选择。啧啧……那滋味。
 
-![5.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/5.png)
+![5.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/11.png)
 
 ###【图形字体】
 
 用的开源的代码，不记得有没有修改什么了，弹幕就是图个乐的。
 
-![6.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/6.png)
+![6.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/12.png)
 
 ###【其他】
 
