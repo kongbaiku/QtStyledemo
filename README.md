@@ -20,7 +20,7 @@ QT基础&amp;样式表小程序，QT学习用
 
 ![2.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/2.png)
 
-.
+***
 
 ### 【样式设定】
 
@@ -38,7 +38,7 @@ QT基础&amp;样式表小程序，QT学习用
 
 ![1.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/1.png)
 
-.
+***
 
 ### 【树状列表】
 
@@ -48,7 +48,7 @@ QT的树状列表居然是不包含选值逻辑的你敢信？（不知道现在
 
 ![5.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/11.png)
 
-.
+***
 
 ### 【图形字体】
 
@@ -56,13 +56,13 @@ QT的树状列表居然是不包含选值逻辑的你敢信？（不知道现在
 
 ![6.PNG](https://github.com/kongbaiku/QtStyledemo/blob/main/README/12.png)
 
-.
+***
 
 ### 【其他】
 
 其他没说的就是没啥好说的，界面自带。
 
-.
+***
 
 ## 下载
 
